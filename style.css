@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 100vh;
+}
+
+.header__img {
+    height: 100%;
+    width: 100%;
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    
+    text-align:unset;
+    }
